@@ -1,1 +1,2 @@
-# demo
+# GIT
+git commit --amend
